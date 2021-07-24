@@ -8,7 +8,7 @@ You can download from https://github.com/Mr-X-01/MHDDoS
 
 **Requirements**
 
-* [Python3][python3]
+* Python3
 * Python-pip3
 * requests
 * PySocks
