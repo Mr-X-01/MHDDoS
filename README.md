@@ -2,7 +2,7 @@
 
 ## Downloads
 
-You can download from [GitHub Releases](https://github.com/MHProDev/MHDDoS/releases)
+You can download from https://github.com/Mr-X-01/MHDDoS
 
 ### Getting Started
 
@@ -17,17 +17,6 @@ You can download from [GitHub Releases](https://github.com/MHProDev/MHDDoS/relea
 * scapy
 ---
 
-**Video's**
-
-* Aparat: https://www.aparat.com/v/bHcP9
-* YouTube : Comming soon..
-
-*toturial*
-
-* Aprat : Comming soon..
-* YouTube : Comming soon..
-
----
 
 **Clone and Install Script**
 
@@ -42,8 +31,6 @@ You can download from [GitHub Releases](https://github.com/MHProDev/MHDDoS/relea
 **Launch Script**
 
 ```console
-> python3 MHDDoSLayer7v1.py
+> python3 start.py
 ```
 
-[python3]: https://python.org 'Python3'
-[github]: https://github.com/MHProDev/MHDDoS/issues 'GitHub'
